@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+body, html {
+	margin: 0px;
+}
+
+#myCanvas {
+	width: 100%;
+	height: 100%;
+}
