@@ -1,0 +1,1101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width"
+			],
+			[
+				"THrcub",
+				"THREE.CubeGeometry"
+			],
+			[
+				"Ge",
+				"THREE.CubeGeometry"
+			],
+			[
+				"Th",
+				"THREE.Geometry"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"0xF",
+				"0xffffff"
+			],
+			[
+				"0x",
+				"0xdddddd"
+			],
+			[
+				"THbas",
+				"THREE.MeshBasicMaterial"
+			],
+			[
+				"Cub",
+				"THREE.CubeGeometry"
+			],
+			[
+				"fin",
+				"findOne	Meteor: collection.findOne(selector, [options])"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"loc",
+				"loc"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"se",
+				"searchRadius"
+			],
+			[
+				"Sess",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"Metus",
+				"Meteor.userId	Meteor.userId()"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"Met",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"MeteU",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"Se",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"pla",
+				"placeItem"
+			],
+			[
+				"artis",
+				"artists"
+			],
+			[
+				"find",
+				"find	Meteor: this.find(selector)"
+			],
+			[
+				"Session",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"Match",
+				"matchPlace"
+			],
+			[
+				"Ses",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"up",
+				"upsert"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"g",
+				"gigShow"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"MetU",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"user",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"Meteors",
+				"Meteor.subscribe	Meteor.subscribe(name [, arg1, arg2, ... ] [, callbacks])"
+			],
+			[
+				"sc",
+				"scaleX"
+			],
+			[
+				"scl",
+				"scaleX"
+			],
+			[
+				"fro",
+				"fromDir"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"artiste",
+				"artiste_id"
+			],
+			[
+				"di",
+				"dispoSelector"
+			],
+			[
+				"M",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"own",
+				"owner"
+			],
+			[
+				"Mete",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"MetUs",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"Metes",
+				"Meteor.subscribe	Meteor.subscribe(name [, arg1, arg2, ... ] [, callbacks])"
+			],
+			[
+				"Ss",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"sel",
+				"selected_date"
+			],
+			[
+				"Meteus",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"Aon",
+				"Accounts.onCreateUser	Meteor: Accounts.onCreateUser(fn)"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"par",
+				"parsley"
+			],
+			[
+				"re",
+				"rendered	Meteor: Template.myTemplate.rendered = function ( ) { ... }"
+			],
+			[
+				"su",
+				"suggesteeIds"
+			],
+			[
+				"member",
+				"memberId"
+			],
+			[
+				"MeteI",
+				"Meteor.userId	Meteor.userId()"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"dispo",
+				"disposList"
+			],
+			[
+				"Metsta",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Meco",
+				"Meteor.Collection	new Meteor.Collection(name, [options])"
+			],
+			[
+				"Metest",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Metu",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"Meteuse",
+				"Meteor.userId	Meteor.userId()"
+			],
+			[
+				"MetCo",
+				"Meteor.Collection	new Meteor.Collection(name, [options])"
+			],
+			[
+				"Metcol",
+				"Meteor.Collection	new Meteor.Collection(name, [options])"
+			],
+			[
+				"Metelog",
+				"Meteor.loginWithPassword	Meteor.loginWithPassword(user, password, [callback])"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"Metesta",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Acsend",
+				"Accounts.sendVerificationEmail	Meteor: Accounts.sendVerificationEmail(userId, [email])"
+			],
+			[
+				"Acc",
+				"Accounts.config	Meteor: Accounts.config(options)"
+			],
+			[
+				"Deps",
+				"Deps.autorun	Meteor: Deps.autorun(runFunc)"
+			],
+			[
+				"Metm",
+				"Meteor.methods	Meteor.methods(methods)"
+			],
+			[
+				"Accou",
+				"Accounts.sendVerificationEmail	Meteor: Accounts.sendVerificationEmail(userId, [email])"
+			],
+			[
+				"Acco",
+				"Accounts.config	Meteor: Accounts.config(options)"
+			],
+			[
+				"Metelo",
+				"Meteor.loggingIn	Meteor.loggingIn()"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"Acou",
+				"Accounts.config	Meteor: Accounts.config(options)"
+			],
+			[
+				"form",
+				"rawFormData"
+			],
+			[
+				"depen",
+				"dependsOn"
+			],
+			[
+				"me",
+				"memberEdit"
+			],
+			[
+				"Meteo",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"event",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"Metst",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Mst",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"Mcol",
+				"Meteor.Collection	new Meteor.Collection(name, [options])"
+			],
+			[
+				"Mco",
+				"Meteor.Collection	new Meteor.Collection(name, [options])"
+			],
+			[
+				"Meteorst",
+				"Meteor.startup	Meteor.startup(fn)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"htl",
+				"Snippet: html"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"pane	",
+				"Snippet: bs3-panel"
+			],
+			[
+				"butgr",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"btngr",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"number",
+				"Snippet: bs3-input-number"
+			],
+			[
+				"spinn	",
+				"Snippet: bs3-input-number"
+			],
+			[
+				"btngr	",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"medi",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"butgro",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"group",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"alert",
+				"Snippet: bs3-alert-info"
+			],
+			[
+				"buttgrou",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"tablh",
+				"Snippet: bs3-table-hover"
+			],
+			[
+				"table",
+				"Snippet: bs3-panel-table"
+			],
+			[
+				"forin	",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"templ",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"badg	",
+				"Snippet: bs3-badge"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"icon",
+				"Snippet: bs3-icon"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"teml",
+				"Snippet: Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"button	",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"help",
+				"Snippet: Meteor: Template.myTemplate.helpers(helpers)"
+			],
+			[
+				"templa",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"bsinpu",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"butt",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"img",
+				"Snippet: bs3-image"
+			],
+			[
+				"radio",
+				"Snippet: bs3-input-radio"
+			],
+			[
+				"bsselec",
+				"Snippet: bs3-input-select"
+			],
+			[
+				"head",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"inline",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"form ho",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"form inlin",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"ju",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"search	",
+				"Snippet: bs3-input-search"
+			],
+			[
+				"form",
+				"Snippet: bs3-form"
+			],
+			[
+				"bsform",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bsmedi",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"bsg	",
+				"Snippet: bs3-icon-g"
+			],
+			[
+				"img	",
+				"Snippet: bs3-image"
+			],
+			[
+				"bsfo",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"bsicon",
+				"Snippet: bs3-icon-g"
+			],
+			[
+				"icon	",
+				"Snippet: bs3-icon"
+			],
+			[
+				"bsbut",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"bsbut		",
+				"Snippet: bs3-sm-button-default"
+			],
+			[
+				"bscontai",
+				"Snippet: bs3-container"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handle",
+				"Snippet: handlebars template"
+			],
+			[
+				"hand	",
+				"Snippet: handlebars template"
+			],
+			[
+				"bsnavb",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bsnavba",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bsnav",
+				"Snippet: bs3-navbar-static-top"
+			],
+			[
+				"conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"bscont",
+				"Snippet: bs3-container"
+			],
+			[
+				"bscon",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bs3con",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs",
+				"Snippet: bs3-container"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/blouze/Workspace/paper.js/harmonograph/client/harmonograph.js",
+		"/home/blouze/Workspace/threejs/penrose/client/penrose.css",
+		"/home/blouze/Workspace/paper.js/life_of_a_tree/life_of_a_tree.js",
+		"/home/blouze/Workspace/paper.js/life_of_a_tree/life_of_a_tree.css",
+		"/home/blouze/Workspace/paper.js/life_of_a_tree/client/life_of_a_tree.html",
+		"/home/blouze/Workspace/paper.js/the_life_of_a_tree/client/lib/perlin.js",
+		"/home/blouze/Workspace/paper.js/harmonograph/client/lib/FileSaver.js",
+		"/home/blouze/Workspace/paper.js/harmonograph/client/lib/Blob.js",
+		"/home/blouze/Workspace/paper.js/harmonograph/client/lib/paper-full.min.js",
+		"/home/blouze/Workspace/blouze.github.io/config.json",
+		"/home/blouze/Workspace/blouze.github.io/contents/projets/harmonographe/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/projets/harmonographe/harmonographe.js",
+		"/home/blouze/Workspace/blouze.github.io/contents/css/main.css",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonographe/index.md",
+		"/home/blouze/Workspace/blouze.github.io/templates/index.jade",
+		"/home/blouze/Workspace/blouze.github.io/templates/layout.jade",
+		"/home/blouze/Workspace/blouze.github.io/contents/projets/harmonographe/lib/paper.js",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/bamboo-cutter/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/projets/harmonographe/lib/dat.gui.min.js",
+		"/home/blouze/Workspace/blouze.github.io/templates/article.jade",
+		"/home/blouze/Workspace/blouze.github.io/templates/blank.jade",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonographe/harmonographe.js",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonographe/harmonographe.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/harmonographe/index.html",
+		"/home/blouze/Workspace/blouze.github.io/contents/harmonographe/harmonograph.css",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonogrammes/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonogrammes/run/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/authors/blaise-garcia.json",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/harmonogrammes/harmonograph.css",
+		"/home/blouze/Workspace/blouze.github.io/contents/about.md",
+		"/home/blouze/Workspace/blouze.github.io/templates/archive.jade",
+		"/home/blouze/Workspace/blouze.github.io/plugins/paginator.coffee",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/hello-world/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/red-herring/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/markdown-syntax/index.md",
+		"/home/blouze/Workspace/blouze.github.io/contents/articles/another-test/index.md",
+		"/home/blouze/Workspace/paper.js/harmonograph/é",
+		"/home/blouze/Workspace/threejs/penrose/client/lib/lsystem/lSystem.LSystem.js",
+		"/home/blouze/Workspace/threejs/penrose/client/lib/three.js",
+		"/home/blouze/Workspace/threejs/penrose/client/penrose.js",
+		"/home/blouze/Workspace/threejs/penrose/penrose.js",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/client/harmonograph.css",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/client/lib/paper.js",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/client/lib/dat.gui.min.js",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/client/harmonograph.js",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/client/index.html",
+		"/home/blouze/Workspace/js/paper.js/harmonograph/js/harmonograph.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/paper.js/paper-full.min.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.js/lib/TessellateModifier.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.js/TessellateModifier.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.js/lib/three.min.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/index.html",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.js/three.min.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.min.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/startup.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/three.js/three.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/dat.gui.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/dat.gui.min.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/client/lib/meteor/startup.js",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/index.html",
+		"/home/blouze/Workspace/meteor/threejs/Hello_Paulie/index.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/lib/meteor/startup.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/home.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/gigs/show.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/navbar/navbar.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/bootflat/bootflat.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/bootflat/bootflat-extensions.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/bootflat-extensions.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/bootflat.css",
+		"/home/blouze/Workspace/meteor/lamifa/smart.json",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/places/show.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/artists/show.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/Flat-UI-master/index.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/home.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/gigs/show.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/lib/meteor/router.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/gigs.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/places.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/config/accounts.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/lamifa.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/users/show.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/map.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/places/show.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/show.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/users/show.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/show.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/lib/helpers/site.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/gigs/form.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/gigs/form.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/lamifa.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/bootstrap-datepicker.fr.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/boostrap-lightbox/bootstrap-lightbox.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/L.GeoSearch/js/l.control.geosearch.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/places/form.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/places/form.js",
+		"/home/blouze/Workspace/meteor/lamifa/lib/models/places.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/modal.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/artists/form.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/Leaflet.markercluster/leaflet.markercluster.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/Leaflet.markercluster/MarkerCluster.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/Leaflet.awesome-markers/leaflet.awesome-markers.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/Leaflet.awesome-markers/leaflet.awesome-markers.css",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/users.js",
+		"/home/blouze/Workspace/meteor/lamifa/lib/models/posts.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/posts.js",
+		"/home/blouze/Workspace/meteor/lamifa/lib/models/gigs.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/navbar/navbar.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/artists/form.html",
+		"/home/blouze/Workspace/meteor/lamifa/lib/models/votes.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/js/raty/jquery.raty.min.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/accounts/modal.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/accounts/modal.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/accounts/login.html",
+		"/home/blouze/Workspace/meteor/lamifa/lib/models/artists.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/lib/meteor/subscriptions.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/artists/show.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/artists.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/config/utils.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/users/user.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/users/user.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/form.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/edit.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/posts/edit.html",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/flat-ui.css",
+		"/home/blouze/Workspace/meteor/lamifa/client/css/bootstrap.min.css",
+		"/home/blouze/Workspace/meteor/lamifa/server/publish/votes.js",
+		"/home/blouze/Workspace/meteor/lamifa/client/views/gigs/new.js",
+		"/home/blouze/Workspace/meteor/lamifa/server/config/places.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.js",
+			"*.html",
+			"",
+			"/home/blouze/Workspace/meteor/lamifa/lib/soundcloud",
+			"",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"color",
+			"locals.url",
+			"gui",
+			"vars",
+			"harmonograph",
+			"lang",
+			"p {",
+			"harmonograph.",
+			" )",
+			"( ",
+			"\"freqS\": 0,",
+			"\"freqS\": 1,",
+			"sz",
+			"\"freqS\": 0,",
+			"\"phaseY\": 0",
+			"\"phaseS\": 0,",
+			"sz",
+			"retun",
+			"dat",
+			" \">",
+			"Places",
+			"this.subscribe(\"places\"",
+			"\"position\"",
+			"Infinity",
+			"Session.get(\"searchRadius\")",
+			"glyphicon glyphicon",
+			"pickedDate",
+			"startTime",
+			"	}, \n\n	'click #remove': function (e, t) {\n",
+			"address",
+			"control",
+			"places",
+			"positionMarker",
+			"/",
+			"img/leaflet",
+			"images/",
+			"geosearch",
+			"mapLocate",
+			"login",
+			"comment",
+			".subscribe(\"user\"",
+			"markLocation",
+			"gig",
+			"fonta",
+			"url",
+			"FontAwesome",
+			"'FontAwesome'",
+			"famil",
+			"comm",
+			".length",
+			"length",
+			"fa-",
+			"Session.set(\"mapSearchLocation\"",
+			"\n	",
+			"et(\"position\"",
+			"-thumb",
+			"\n		",
+			">\n",
+			"Session.set(\"mapSearchLocation\"",
+			"\n			",
+			"console",
+			"currentUserImage",
+			"gigThumbnail",
+			"gigPicture",
+			"artist",
+			">\n",
+			"gig",
+			"eventEdit",
+			"value",
+			"eventForm",
+			"eventShow",
+			"Events",
+			"eventEdit",
+			"calendar",
+			"div",
+			"memberId",
+			"selected_dispo",
+			"\">\n",
+			"href",
+			"dateDetails",
+			"icon-",
+			"isOwner",
+			"isArtiste",
+			"{{>member",
+			"isOwner",
+			"shortenedAdresse",
+			"isArtiste",
+			"isAnArtist",
+			"isUserAnArtist",
+			"datesL",
+			"dates",
+			"\"selected_dispo\", null",
+			"(\"selected_dispo\", null)",
+			"Session.set(\"selected_dispo\", null)",
+			"matchDispo",
+			"activeTab",
+			"shortenedAdresse",
+			"filepicker",
+			"Session.set(\"memberId\"",
+			"Session.set(\"memberId\")",
+			"profile.neighbours",
+			"getNeighbours",
+			"neighbours",
+			"isUserAnArtist",
+			"unloaded",
+			"isActiveTab",
+			"active",
+			"isActiveTab",
+			"Template.member.",
+			"isArtist",
+			"right",
+			"isUserAnArtist",
+			"isArtist",
+			"addDispo",
+			"requested_dispo",
+			"Session.set(\"activeTab\"",
+			"et(\"selected_dispo\"",
+			"mapSearchLocation",
+			"selectedDispo",
+			"\"selected_dispo\"",
+			"userId",
+			"Session.set(\"",
+			"\"selected_dispo\"",
+			"memberSearchLocation",
+			"activepill",
+			"else}}",
+			"else",
+			"consol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"contents.index.url",
+			"h",
+			"this.",
+			")",
+			"()",
+			"(",
+			"\"freqS\": 1,",
+			"\"freqS\": 0,",
+			"\"freqS\": 1,",
+			"\"phaseY\": harmonograph.phaseY",
+			"\"phaseS\": harmonograph.phaseS,",
+			"THREE",
+			"fa fa",
+			"locations",
+			"/img/leaflet",
+			"img/leaflet-awesome-markers/",
+			"img/leaflet-awesome-markers",
+			"login",
+			"post",
+			"place",
+			"artist",
+			"Gigs",
+			"gigEdit",
+			"fa fa-",
+			"6",
+			"5",
+			"Profile",
+			"",
+			"member.profile.",
+			"name",
+			"-xs-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "harmonograph.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
